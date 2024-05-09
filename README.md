@@ -19,7 +19,7 @@ Close the file after writing all user data.
 Display a message indicating that the user data has been saved to the file.
 
 # PROGRAM:
-```
+```C#
 using System;
 using System.IO;
 
